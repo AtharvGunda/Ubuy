@@ -1,0 +1,119 @@
+{
+  "version": 1,
+  "skills": {
+    "brainstorming": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/brainstorming/SKILL.md",
+      "computedHash": "e07e063c5d368fd2090f6ddb6a28ae302a148a4dbb11746616d0496ec18eba73"
+    },
+    "browser-testing": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/browser-testing/SKILL.md",
+      "computedHash": "ecada344281b8494448284cfd74628618916a92fa6a99368d2102bebd644fbdd"
+    },
+    "contributing-to-superpowers": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/contributing-to-superpowers/SKILL.md",
+      "computedHash": "78274a2540b81f7bc60c1759c181eed20cbde0f29c2e0b078b9cee2aef322110"
+    },
+    "diagnosing-superpowers": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/diagnosing-superpowers/SKILL.md",
+      "computedHash": "48ccd67b9facc27cc3a2176ab3a1cb9e8bbb3cc5b55d9d64396b96b305438564"
+    },
+    "dispatching-parallel-agents": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/dispatching-parallel-agents/SKILL.md",
+      "computedHash": "a36c7bff4822ff469a52e8887cd1d98dc33780e113e6b19bcad623ad456d9f11"
+    },
+    "executing-plans": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/executing-plans/SKILL.md",
+      "computedHash": "d6987eb2c3f0f4476efb213c29adf81f29817684d9e839294c0f8b9ff9952b8a"
+    },
+    "finishing-a-development-branch": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/finishing-a-development-branch/SKILL.md",
+      "computedHash": "77aa142dc8daca87d057f932571ce77337d498f54410a40447b4667569ca2c13"
+    },
+    "karpathy-guidelines": {
+      "source": "multica-ai/andrej-karpathy-skills",
+      "sourceType": "github",
+      "skillPath": "skills/karpathy-guidelines/SKILL.md",
+      "computedHash": "0ec1641120accbb458780e0bd19a50a4182f2b97863e90851b91307f29802c9f"
+    },
+    "ponytail": {
+      "source": "dietrichgebert/ponytail",
+      "sourceType": "github",
+      "skillPath": "skills/ponytail/SKILL.md",
+      "computedHash": "9feedbe220d039ba30720217b3fce16214817063fb54a48843d89368c86554e9"
+    },
+    "receiving-code-review": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/receiving-code-review/SKILL.md",
+      "computedHash": "d6edd799d7c5d31300172f1a99908388f298104e71b4492cda7ee62bf3c328ca"
+    },
+    "requesting-code-review": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/requesting-code-review/SKILL.md",
+      "computedHash": "6af933a6238e8b6f244b9ed3901eb9990bea7b6acda4d392ac84a85e7e0289cb"
+    },
+    "subagent-driven-development": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/subagent-driven-development/SKILL.md",
+      "computedHash": "e7107fc5836fdd7f36afdfae2816e3443f6ef949383dc8085d534c9584b967d9"
+    },
+    "systematic-debugging": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/systematic-debugging/SKILL.md",
+      "computedHash": "104daad7d98c697b9bbbf7ada4c6aabbc0942b7b850eb7f3050135832749a39a"
+    },
+    "test-driven-development": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/test-driven-development/SKILL.md",
+      "computedHash": "3cfe4ebb6fa7288f668d87880d279c8e48f7a92b63415e296857060f5ce22e05"
+    },
+    "using-git-worktrees": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/using-git-worktrees/SKILL.md",
+      "computedHash": "468e06d936eef419b19d75f14b4b51494ba86dd65091c10bf15b2da2aa831622"
+    },
+    "using-superpowers": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/using-superpowers/SKILL.md",
+      "computedHash": "fd6da99c749a842e85ab462457cbfbd34f8923775f129401288f9852413ed7fd"
+    },
+    "verification-before-completion": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/verification-before-completion/SKILL.md",
+      "computedHash": "042569d049d52ee5b11d2f3df32812a77f10e15d12290348be58c6dfc3369b0e"
+    },
+    "writing-plans": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/writing-plans/SKILL.md",
+      "computedHash": "354f9298032feca242a2df0ca7bfe01c585c1d9edc3421aa9f5e21c0ab43e6bc"
+    },
+    "writing-skills": {
+      "source": "roundpilot/superpowers-antigravity",
+      "sourceType": "github",
+      "skillPath": "skills/writing-skills/SKILL.md",
+      "computedHash": "81e7228301080e9f6c82b90ee0b3ab1d418725a2d8229057ba552a60eb2b40ee"
+    }
+  }
+}
